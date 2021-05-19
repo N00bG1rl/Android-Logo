@@ -10,6 +10,6 @@ Feb 26, 2016
 * CSS
 
 ## View on browser
-[Demo](https://n00bg1rl.github.io/responsive/)
+[Demo](https://n00bg1rl.github.io/Android-Logo/)
 
 ![github](./assets/images/github.png)
