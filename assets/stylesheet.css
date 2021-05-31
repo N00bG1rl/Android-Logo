@@ -109,3 +109,53 @@ div div {
   -transform: rotate(-30deg) translate(14px, 0);
   -moz-transform: rotate(-30deg) translate(30px, 0);
 }
+.logo {
+  width: 80px;
+  top: 0;
+  left: 0;
+  position: absolute;
+  z-index: 3;
+  padding: 20px;
+  background-color: transparent;
+}
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  padding: 20px 0;
+  text-align: center;
+}
+footer .social {
+  font-size: 0;
+  padding: 0;
+}
+footer .social li {
+  padding: 10px 5px;
+  display: inline-block;
+}
+.social a svg {
+  width: 30px;
+  height: 30px;
+  vertical-align: middle;
+  fill: #999;
+  transition: ease-in-out .5s;
+  -moz-transition: ease-in-out .5s;
+}
+.social a svg:hover {
+  fill: #A4CA39;
+}
+.copyright p,
+.copyright a {
+  font-family: sans-serif;
+  color: #999;
+  font-size: 15px;
+  font-weight: 400;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  transition: ease-in-out .5s;
+  -moz-transition: ease-in-out .5s;
+}
+.copyright a:hover {
+  color: #A4CA39;
+}

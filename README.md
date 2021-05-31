@@ -1,7 +1,5 @@
 # Android logo animatsion
 
-## Not responsive
-
 ## Created at
 Feb 26, 2016
 
@@ -9,7 +7,6 @@ Feb 26, 2016
 * HTML
 * CSS
 
-## View on browser
-[Demo](https://n00bg1rl.github.io/Android-Logo/)
+## [View on browser](https://n00bg1rl.github.io/Android-Logo/)
 
 ![github](./assets/images/github.png)
