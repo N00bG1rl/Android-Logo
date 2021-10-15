@@ -1,12 +1,22 @@
 # Android logo animatsion
 
-## Created at
-Feb 26, 2016
+I created this to practice CSS animations.
 
-## Project is created with
+This was one of the projects from [The Odin Project](https://www.theodinproject.com/home) - Full Stack Curriculum.
+
+# Created at
+
+April 6, 2017
+
+# Project is created with
+
 * HTML
 * CSS
 
-## [View on browser](https://n00bg1rl.github.io/Android-Logo/)
+# View on browser
+
+## [https://n00bg1rl.github.io/Android-Logo/](https://n00bg1rl.github.io/Android-Logo/)
+
+# View as image
 
 ![github](./assets/images/github.png)
